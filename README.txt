@@ -1,3 +1,4 @@
+This is a code for one dimensional magnetohydrodynamics(MHD) simulation
 1. Go to src directory, select Rusanov/HLL/HLLD solver in HLLD.cpp
 2. Use "make all" to compile the code
 3. Use "./main.o $test" to execute, where $test is the test case you want to execute
