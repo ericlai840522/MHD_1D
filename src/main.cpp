@@ -63,7 +63,7 @@ int main(int argc, char *argv[]){
   
     log(&U[0], &B[0], nx, nghost, test, gamma);
     //for (int i=0;i<argc;i++)
-    //      cout<<argv[i]<<" ";
+    //    cout<<argv[i]<<" ";
 
     return 0;
 } 
